@@ -98,11 +98,4 @@ This Power BI dashboard offers a comprehensive analysis of a company's financial
 
 ---
 
-### 📸 Dashboard Previews
 
-> *(Optional: Insert screenshots from the dashboard)*
-
-```markdown
-![Revenue & Profit Summary](project_images/finance_kpi_cards.png)
-![Product vs Discount Analysis](project_images/discount_vs_profit.png)
-![Segment-wise Sales](project_images/segment_performance.png)
