@@ -1,5 +1,6 @@
 ## 💼 Financial Performance Dashboard
 ### 🔗 [Download Dashboard (.pbix)](https://drive.google.com/file/d/1w9lnFCFgRioLzFnz25Dz7UZE71GmQhz8/view?usp=sharing)
+![logo](
 **Tools Used**: Power BI · Excel · DAX · Data Modeling  
 **Timeline**: Mar 2025 – Apr 2025  
 **Domain**: Business Intelligence / Finance & Sales Analytics  
